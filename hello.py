@@ -1,5 +1,5 @@
 
-print("クラスPCからHello World"*111)
+print("myPCからHello World"*111)
 
 print("Hello World"*111)
 
